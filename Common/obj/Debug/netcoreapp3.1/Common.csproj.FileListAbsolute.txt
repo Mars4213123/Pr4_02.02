@@ -1,0 +1,9 @@
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\gigpr\Source\Repos\Pr4_02.02\Common\obj\Debug\netcoreapp3.1\Common.pdb
