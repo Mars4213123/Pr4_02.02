@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Client\\Client.csproj": {}
+    "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Client\\Client.csproj": {
+    "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\gigpr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Client\\obj\\",
+        "outputPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gigpr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj"
+              "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj": {
+    "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\gigpr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gigpr\\Source\\Repos\\Pr4_02.02\\Common\\obj\\",
+        "outputPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gigpr\\AppData\\Roaming\\NuGet\\NuGet.Config",

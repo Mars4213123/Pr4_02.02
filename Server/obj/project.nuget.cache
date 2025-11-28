@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHIWPSUFNyE=",
+  "dgSpecHash": "2+iu04B+r8o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gigpr\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
     "C:\\Users\\gigpr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",

@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\gigpr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gigpr\\Source\\Repos\\Pr4_02.02\\Server\\obj\\",
+      "outputPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gigpr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\gigpr\\source\\repos\\Pr4_02.02\\Common\\Common.csproj"
+            "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\gigpr\\OneDrive\\Desktop\\git100\\Pr4_02.02\\Common\\Common.csproj"
             }
           }
         }
